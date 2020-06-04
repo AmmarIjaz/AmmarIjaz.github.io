@@ -1,15 +1,18 @@
+Why is Everyone Trying to Find Loopholes?
+=========================================
+
 The answer to all your physical distancing loophole questions is, "No."
 
 But why are intelligent and caring people who accept the deadliness of this virus even asking these questions? I was trained in philosophy—asking why?—and psychology, so I'm doubly committed to asking, "_why_ do _people_ do things?"
 
-Here's this is odd to me: if this was a war or flood, no one would be asking, "is it ok to jump out to the park? I probably won't be shot by the soldiers" or "Is it ok to see my boyfriend who’s been home for two weeks? I probably won’t drown." Everyone would be hunkering down in their homes refusing to come out. So, why are people even trying to find loopholes in this particular kind of disaster?
+Here's why this is odd to me: if this was a war or flood, no one would be asking, "is it ok to jump out to the park? I probably won't be shot by the soldiers," or, "is it ok to see my boyfriend who’s been home for two weeks? I probably won’t drown." Everyone would be hunkering down in their homes refusing to come out. So, why are people even trying to find loopholes in this particular kind of disaster?
 
 tl;dr: I think people are asking loophole questions because a pandemic is a Collective Action Problem (CAP) with high personal costs and low personal benefits for the majority of folk, so there is an understandable and _Rational_ (narrowly construed à la economics) tendency for individuals to try to Free-Ride off everyone else staying at home, which isn't so bad if one person does it, but a terrible idea if too many people do it. Rest of this article is unpacking this dynamic.
 
 A Collective Action Problem (CAP) occurs when—despite it being in every member's interests to act towards a common goal—individual incentives & action prevent that from happening, which creates a worse outcome for all.
 
 Example _Aik_
-===========
+-------------
 
 Ever walk down a hallway and almost collide with someone? You both stop, both apologise—this is Canada, after all—then one of you steps to the side and you both resume walking.
 
@@ -24,7 +27,7 @@ The reason is deceptively simple: we have a society-wide agreement that almost c
 Exercise for the reader: what's going on when a call drops, then you both try to call each other back and both get the busy signal? What's the common good? What's the individual action preventing it? What simple rule would eliminate that CAP?
 
 Example _Tho_
-===========
+-------------
 
 Let's take a more complex, classic example called the Tragedy of the Commons, which pretty much explains every major concept in Collective Action Problems. So, once you grok it, you'll be able to easily learn most of CAP/game theory and understand why climate change/global warming hasn't been solved already.
 
@@ -53,7 +56,7 @@ Now everyone else is also grazing their sheep for seven hours, then eight, then 
 Here's the thing though: who's at fault? If only everyone had stuck to the 6-hour agreement, the commons would be lush and enjoyable for decades, but the common grasslands are now destroyed within a year, for no one to be able to use. But, it's tough to blame any _one_ person, even Romesh. Even though he was the first, neither he nor any _one_ person destroyed the commons by letting their sheep graze just ten minutes longer. 
 
 Bringing it together
-==============
+--------------------
 
 So, that's the _structure_ of the Tragedy of the Commons CAP: a common good and uneven positive vs negative incentives for individuals, in particular benefits are Private (plumper sheep for me) while costs are Public (commons is degraded just a tiny bit).
 
@@ -86,7 +89,7 @@ There's another cognitive bias—for lack of a better term—at work here: like 
 Humans are the copper wire that the virus flows through. If I’m properly grounded, the current will pass through me and I may survive just fine, but if I’m holding hands with a loved one who's not, they'll die. Or if they're holding hands with another person, who's holding hands with another, they'll die. We have to break the current—the long chain of transmission—by staying home, unless absolutely necessary.
 
 Getting Personal
-============
+----------------
 
 I don't want to come off as holier-than-thou, judging those who engage in Foolishness.
 
@@ -111,7 +114,7 @@ These are all enormous sacrifices I'm making for the greater good; to save other
 Please join me in saving lives. Stay home.
 
 Notes
-====
+-----
 
 1. Opening line adapted from this headline: https://www.vice.com/en_us/article/4agza3/answer-to-all-social-distancing-loophole-questions-is-no
 2. The walking example is from GB, who picked up the logic of CAPs faster than I initially did.
