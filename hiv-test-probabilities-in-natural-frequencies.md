@@ -23,16 +23,22 @@ Okay, I lied. It's not a simple calculation. You need Bayes' Rule to solve it, w
 
 But by thinking about these things in terms of Natural Frequencies, you can do Bayesian calculations in your head (with practice):
 
-"Imagine 10,000 men who are in low-risk category. One is infected (base rate) and will test positive with practical certainty (true positive). Of the 9,999 men who are not infected, another one will also test positive (false positive). So we can expect that two men will test positive."
+"Imagine 10,000 men who are in low-risk category. One is infected (base rate) and will test positive with practical certainty (true positive). Of the 9,999 men who are not infected, another one will also test positive (false positive). What is the false-positive rate?"
 
 Now try to figure it out. I'll wait.
 
-I assume you can divide 1 from 2, but the answer is I have a 50-50 chance of my positive test actually being a true positive.
+I assume you can add 1 + 1 and then divide divide 1 from 2, but the answer is I have a 50-50 chance of my positive test actually being a true positive.
 
 Another way to think about it is using a tree diagram like this:
 
 ![Bayes' Rule vs Natural Frequencies Tree Diagram](Bayes-Rule-vs-Natural-Frequencies-HIV.png "Bayes' Rule vs Natural Frequencies Tree Diagram")
 
+That said, this is one of the reasons they do multiple HIV tests, with different sensitivity and specificity ratings. And when—not if, due to the high false-positive rate—I get a positive HIV, I'll be getting a second one.
+
 I've taken to looking up (on Google Scholar) or asking doctors what the miss (sensitivity) and false positive rates (specificity) for tests are, because they vary widely and I need to understand them to be an educated, informed consumer of medical information and tests.
 
-NEXT TIME ON AMMAR'S BORING PROBABILITY SERIES: How to think about COVID-19 testing and mortality rates.
+NEXT TIME ON AMMAR'S BORING AF PROBABILITY SERIES: How to think about COVID-19 testing and mortality rates.
+
+PS Generally, signal ("true" results) and noise ("false" results) trade off of each other. For a test to make sure it doesn't miss any true positives, it'll likely have a higher false positive rate. If you want to reduce the false positive rate, you'll increase the miss rate. So, tests usually choose which side they want to err on.
+
+"The first [HIV] test, called the ELISA (enzyme-linked immunoabsorbent assay), is designed to detect antibodies against HIV in blood samples. It was originally used to screen donated blood, where maximizing test sensitivity (the true positive rate)—at the cost of an increased false positive rate—was imperative."
