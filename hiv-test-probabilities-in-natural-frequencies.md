@@ -11,7 +11,7 @@ There's two possible realities: either I have HIV or I don't. But because All St
 3. I have HIV but the test says I don't ("miss" or "false negative").
 4. I don't have HIV and the test says I do ("false positive").
 
-(insert table)
+![Test Results Table](type-1-2-errors.png "Test Results Table")
 
 So how did I come up with that 50% figure? It's a pretty simple calculation, actually for you to try:
 
@@ -29,7 +29,9 @@ Now try to figure it out. I'll wait.
 
 I assume you can divide 1 from 2, but the answer is I have a 50-50 chance of my positive test actually being a true positive.
 
-Another way to think about it is using a tree diagram like this: (insert diagram)
+Another way to think about it is using a tree diagram like this:
+
+![Bayes' Rule vs Natural Frequencies Tree Diagram](Bayes-Rule-vs-Natural-Frequencies-HIV.png "Bayes' Rule vs Natural Frequencies Tree Diagram")
 
 I've taken to looking up (on Google Scholar) or asking doctors what the miss (sensitivity) and false positive rates (specificity) for tests are, because they vary widely and I need to understand them to be an educated, informed consumer of medical information and tests.
 
