@@ -27,7 +27,7 @@ But by thinking about these things in terms of Natural Frequencies, you can do B
 
 Now try to figure it out. I'll wait.
 
-I assume you can add 1 + 1 and then divide divide 1 from 2, but the answer is I have a 50-50 chance of my positive test actually being a true positive.
+I assume you can add 1 + 1 and then divide 1 from 2, but the answer is I have a 50-50 chance of my positive test actually being a true positive.
 
 Another way to think about it is using a tree diagram like this:
 
