@@ -15,6 +15,7 @@ Here's another way to carve up Goods:
     c) The BO of someone on your bus is Non-Excludable (unfortunately), so everyone gets a snoot-full.
 
 2. Rivalrous vs Non-Rivalrous, which is whether there's a Rivalry between one person's consumption and another's. It's a (convoluted) way of saying you can't have your cake and eat it, too. Examples:
+
     a) A shawarma is Rivalrous. If I consume this delicious shawarma, you can't have it and if you consume it, I can't have it.  
     b) A song is Non-Rivalrous. We can both download the song and "Consume" it and it's still out there for everyone else to enjoy.
 
