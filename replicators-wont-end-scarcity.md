@@ -90,6 +90,8 @@ So, it'll be treated like things that are essentially-free-but-not-quite in our 
 
 In ST, as long as that energy needs to be transported (requiring Private Goods), as long as replicators need to be repaired, and ultimately as long as people's time is required, there will some need for a yard-stick to measure the Opportunity Cost of all the other things that could be done with those same resources ie money (or you can call it "replicator rations", if you prefer).
 
+As Ken Arrow put it, "the Enterprise is still scarce".
+
 Money doesn't magically disappear from the equation, especially when things are _almost_ free (but not quite).
 
 Here's the real punchline, though:
