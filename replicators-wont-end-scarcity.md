@@ -47,6 +47,7 @@ This is why the internet has ended up reinventing TV and radio in their ad-fille
 Let's go back to the beginning of radio and say you were starting a radio station.
 It costs money (ie not radio airtime) to produce radio content and to run the station, so how are you going to generate that?
 
+* You could try to find a generous patron and/or say "fuck it" and leave running a radio station to those well-off enough that they can foot the bill as a hobby.
 * You could charge people to listen, maybe by requiring a special antenna for just your radio's frequency. As a customer I'd say "fuck you!" cause I'd rather get the radio set that allows me to listen to a hundred other stations rather than your special one.
 
 So you're probably going to be looking at the following:
