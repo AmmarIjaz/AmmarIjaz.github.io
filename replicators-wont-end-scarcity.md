@@ -120,3 +120,11 @@ But I can't let go of this dumb rock cause I'm a dumb ape and form dumb attachme
 Even if you offered me a hundred dollars to replace it with another _absolutely identical_ rock, I wouldn't take the deal because it's not Numerically Identical, as philosophers call it--think serial numbers on identical manfactured goods. (Bump that to $500 and I'd have to think about it--I'm pretty sentimental but not _that_ much more sentimental than I am pragmatic.)
 
 By the way, that's why I think _Deep Space 9_ is the best Trek. Some dumb apes settled down on a _completely arbitrary_ planet and formed an insurrection--the Maquis--rather than give it up, even though there are so many planets each individual could have their own damn planet all to themselves.
+
+## "Ok smart guy so what will end scarcity?"
+
+idk.
+
+Strong AI?
+
+Uploading our consciousnesses to a virtual environment (that then doesn't require level/quest grinding just to get shiny hats to keep the servers running)?
