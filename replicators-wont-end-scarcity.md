@@ -126,6 +126,6 @@ By the way, that's why I think _Deep Space 9_ is the best Trek. Some dumb apes s
 
 idk.
 
-Strong AI?
+Strong AI? With robots I mean, which ST conscpicuously lacks.
 
 Uploading our consciousnesses to a virtual environment (that then doesn't require level/quest grinding just to get shiny hats to keep the servers running)?
