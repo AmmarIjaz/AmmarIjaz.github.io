@@ -49,7 +49,7 @@ It costs money (ie not radio airtime) to produce radio content and to run the st
 
 * You could charge people to listen, maybe by requiring a special antenna for just your radio's frequency. As a customer I'd say "fuck you!" cause I'd rather get the radio set that allows me to listen to a hundred other stations rather than your special one.
 
-So you're probably going to be look at the following:
+So you're probably going to be looking at the following:
 
 * You could beg for donations from listeners.
 * You could convince the public, by way of the government, to give a cut of their annual subscription to their society (ie taxes) to support you (eg grants or public ownership).
@@ -105,7 +105,9 @@ Human sentimentality is another reason why post-scarcity won't be ushered in by 
 
 I have a 1.5" round stone I've moved from place to place for almost a decade. It's not a special stone--not even one of the shiny ones us dumb apes seem to like. It looks like any of a million stones you would find on a beach.
 
-In fact, that's where it came from--a beach. I had a lovely beach day years ago with my Ex (the capital indicates the weight of the relationship, not an economics term). As the sun was setting, she found a stone that she thought looked cool and gave it to me. I looked at it and laughed, thinking "what does she want me to do with this rock?"
+In fact, that's where it came from--a beach. I had a lovely beach day years ago with my Ex (the capital indicates the weight of the relationship, not an economics term). As the sun was setting, she found a stone that she thought looked cool and gave it to me.
+
+I laughed, thinking "what does she want me to do with this rock?"
 
 She was hurt.  
 I felt bad.  
@@ -115,6 +117,6 @@ Now it lives in the box of memorabilia designated for our relationship, which ha
 
 But I can't let go of this dumb rock cause I'm a dumb ape and form dumb attachments to dumb things.
 
-Even if you offered me a hundred dollars to replace it with another _absolutely identical_ rock, I wouldn't take the deal because it's not Numerically Identical, as philosophers call it--think serial numbers on identical manfactured goods. (Bump that to $500 and I'd have to think about it--I'm sentimental but not _that_ much more sentimental than I am pragmatic.)
+Even if you offered me a hundred dollars to replace it with another _absolutely identical_ rock, I wouldn't take the deal because it's not Numerically Identical, as philosophers call it--think serial numbers on identical manfactured goods. (Bump that to $500 and I'd have to think about it--I'm pretty sentimental but not _that_ much more sentimental than I am pragmatic.)
 
-By the way, that's why I think _Deep Space 9_ is the best Trek. In a galaxy with uncountable planets, those dumb apes who had settled down on a _completely arbitrary_ planet formed an insurrection--the Maquis--rather than give them up, even though there are so many planets each individual could have their own damn planet all to themselves.
+By the way, that's why I think _Deep Space 9_ is the best Trek. Some dumb apes settled down on a _completely arbitrary_ planet and formed an insurrection--the Maquis--rather than give it up, even though there are so many planets each individual could have their own damn planet all to themselves.
