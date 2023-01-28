@@ -1,3 +1,5 @@
+# Economics Fallacy Bingo 1
+
 I've to admit to a petty vice. I'm not proud of it but I do indulge it. In my defense, I've had to give up my usual vices—booze and other drugs, women, going outside, etc.—so I've to find new ones (or give up vice itself—ha!)
 
 My vice is what Joseph Heath talks about in the introduction to _Filthy Lucre_ (aka _Economics Without Illusions_), my fav intro to economics:
