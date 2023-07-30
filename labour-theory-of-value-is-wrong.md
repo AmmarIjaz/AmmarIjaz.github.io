@@ -45,7 +45,7 @@ When we ask why something has happened, we use "why" to ask (at least) two diffe
 
 I've set this essay up as a purely causal/descriptive exercise and evaluated the various theories of value as a scientific exercise, asking "does this theory explain the phenomenon better than the alternatives?" as you would between Newtonion mechanics and Einstenian mechanics.
 
-But thinkers like Locke and Marx were political philosophers engaged in normative projects about what _should_ be, not a descriptive one about what _is_. It is entirely coherent to say "labour _should_ be the basis for all value" but it's clearly inaccurate to say "labour _is_ the basis of all value".
+But thinkers like Locke and Marx were political philosophers engaged in normative projects about what _should_ be, not a descriptive one about what _is_. It is entirely coherent to say "labour _should_ be the basis for all value" but it's clearly inaccurate to say "labour _is_ the basis of all value". However, I think there is a persuasive argument for the morality of allowing heterogenuous subjective values for goods and prices to be based on supply and ddemand, most clearly explicated by Joseph Heath in the Rawlsian tradition.
 
 ----------
 
