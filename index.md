@@ -9,3 +9,5 @@ Economics
 =========
 
 [Replicators Won't End Scarcity](replicators-wont-end-scarcity.md)
+
+[Labour Theory of Value is Wrong](labour-theory-of-value-is-wrong.md)
